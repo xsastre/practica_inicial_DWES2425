@@ -90,8 +90,8 @@ java \-jar torneig\_tennis.jar fitxer\_entrada.csv fitxer\_sortida.json
     - Arquitectura utilitzada.
     - Enumerar els 5 principis SOLID i posar 2 exemples amb captures del teu codi on els facis servir.
     - Justificació de les llibreries usades.
-    - Primer lliurament divendres, 13 de setembre de 2024 a les 18:00.
-    - Segona entrega dilluns, 16 de setembre de 2024 a les 19:00.
+    - Primer lliurament 
+    - Segona entrega
 
 ```bash
 /lliuraments/cognom\_cognom\_nom/
