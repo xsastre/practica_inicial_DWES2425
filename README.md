@@ -83,7 +83,7 @@ java \-jar torneig\_tennis.jar fitxer\_entrada.csv fitxer\_sortida.json
 
 ## **Lliurament**
 
-- Projecte mitjançant `Pull Request` a aquest directori al directori lliuraments. El subdirectori que has de fer és cognom\_cognom\_nom.
+- Projecte mitjançant `Pull Request` a aquest directori en el directori *lliuraments*. El subdirectori que has de fer és cognom\_cognom\_nom.
 - A l'esmentat directori hi ha d'estar el projecte i un fitxer README.md.
 - Al fitxer README.md ha de tenir:
     - Descripció del projecte.
